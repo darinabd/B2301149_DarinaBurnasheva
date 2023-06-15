@@ -1,0 +1,13 @@
+.my-element {
+    margin-top: 500px;
+  }
+
+  body {
+    background-image: url(/img/mainpgi.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.spacer {
+  height: 70px;  
+}
